@@ -128,5 +128,6 @@ function keyPressed() {
       //console.log(distance);
   	  Matter.Body.setStatic(lmango.body,false);
     }
+    display();
 
   }
